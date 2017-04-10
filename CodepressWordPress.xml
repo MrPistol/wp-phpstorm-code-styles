@@ -1,5 +1,6 @@
 <code_scheme name="Codepress WordPress">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
